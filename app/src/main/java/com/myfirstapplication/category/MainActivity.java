@@ -8,8 +8,7 @@ import android.view.View;
 
 import android.os.Bundle;
 
-import com.myfirstapplication.category.all.all_category;
-import com.myfirstapplication.category.all.support;
+import com.myfirstapplication.category.all.message;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-               Intent intent = new Intent(MainActivity.this,support.class);
+               Intent intent = new Intent(MainActivity.this, message.class);
                startActivity(intent);
 
             }

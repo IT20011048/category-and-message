@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/activity_all_category.xml" value="0.15572916666666667" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/activity_messageview.xml" value="0.33" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/activity_support.xml" value="0.36666666666666664" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/message.xml" value="0.36666666666666664" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/message_items.xml" value="0.15572916666666667" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/messageitems.xml" value="0.22443890274314215" />
+        <entry key="..\:/SLIIT/Y02.02/MOBILE APP/category2/app/src/main/res/layout/messageview.xml" value="0.15572916666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
