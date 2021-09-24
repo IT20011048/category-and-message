@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">category</string>
     <string name="ex1">expand all</string>
+    <string name="testgmail_com">testgmail.com</string>
+    <string name="any_subject">any subject</string>
+    <string name="button">Button</string>
+    <string name="message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="email_address">Email Address</string>
+    <string name="send">send</string>
+    <string name="test_gmail_com">test@gmail.com</string>
+    <string name="email_hint">test@gmail.com</string>
+    <string name="type_your_message">type your message</string>
+    <string name="sendadd">send</string>
+    <string name="subjectadd">subject</string>
+    <string name="email_addressadd">email address</string>
 </resources>

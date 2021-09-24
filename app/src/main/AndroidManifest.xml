@@ -12,10 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Category">
         <activity
-            android:name=".all.messageview"
+            android:name=".messagelist"
             android:exported="true" />
-        <activity android:name=".all.message" />
-        <activity android:name=".all.all_category" />
+        <activity android:name=".message" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
