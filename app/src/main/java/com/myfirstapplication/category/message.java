@@ -57,7 +57,7 @@ public class message extends AppCompatActivity {
                 .addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
                     public void onSuccess(Void unused) {
-                        Toast.makeText(message.this,"data inserted",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(message.this,"message sent!",Toast.LENGTH_SHORT).show();
                     }
                 })
                 .addOnFailureListener(new OnFailureListener() {
