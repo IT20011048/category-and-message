@@ -18,9 +18,10 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:hint="@string/email_address"
+        android:importantForAutofill="no"
         android:inputType="text"
         android:minHeight="48dp"
-        android:importantForAutofill="no"
+        android:textColorHint="@color/hint3"
         tools:ignore="TextFields">
 
     </EditText>
@@ -31,9 +32,10 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:hint="@string/subject"
+        android:importantForAutofill="no"
         android:inputType="text"
         android:minHeight="48dp"
-        android:importantForAutofill="no">
+        android:textColorHint="@color/hint2">
 
     </EditText>
 
@@ -44,8 +46,9 @@
         android:layout_gravity="top"
         android:layout_margin="8dp"
         android:hint="@string/type_your_message"
+        android:importantForAutofill="no"
         android:inputType="textLongMessage"
-        android:importantForAutofill="no">
+        android:textColorHint="@color/material_on_background_disabled">
 
     </EditText>
 
@@ -55,6 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="@string/sendadd"
+        android:textColor="#212121"
         app:backgroundTint="#E76F51" />
 
 

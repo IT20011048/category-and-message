@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">category</string>
+    <string name="app_name">Message</string>
     <string name="ex1">expand all</string>
     <string name="testgmail_com">testgmail.com</string>
     <string name="any_subject">any subject</string>

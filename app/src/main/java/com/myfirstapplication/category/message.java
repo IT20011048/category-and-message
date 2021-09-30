@@ -52,7 +52,7 @@ public class message extends AppCompatActivity {
         map.put("subject",subject.getText().toString());
         map.put("message",message.getText().toString());
 
-        FirebaseDatabase.getInstance().getReference().child("customer").push()
+        FirebaseDatabase.getInstance().getReference().child("fly buy").push()
                 .setValue(map)
                 .addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
